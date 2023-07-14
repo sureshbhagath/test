@@ -1,2 +1,10 @@
 \sdqq
 
+
+
+asdfDFA
+
+
+AFD
+S
+
